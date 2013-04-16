@@ -1,0 +1,17 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  
+    <string name="title_screen_slide">LGBT媒体报道建议手册</string>
+    <string name="app_name">LGBT媒体报道建议手册</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">★</string>
+        <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Lorem
+        Ipsum</string>
+
+            <!-- Actions -->
+                <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_previous">Previous</string>
+                <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+</resources>
